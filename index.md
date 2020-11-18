@@ -96,7 +96,8 @@ Information Security Podcasts that I listen to: Paul Security Weekly, Defensive 
 Certificates:
 - CompTIA A+ 
 - CompTIA N+ <br>
-Recent completed courses:
+
+Recently completed courses:
 - Duo Security - Intro to Application Security
 - Duo Security - Advanced Application Security
 - AWS Certfife Security - Speciality (O'Reily)
