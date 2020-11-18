@@ -2,12 +2,12 @@
 
 _Information Security professional_
 
-* [Email](mailto:hello@seaofwolf.com)
-* [Website](https://seaofwolf.com)
-* [LinkedIn](https://www.linkedin.com/in/carolstran/alexander-morgan15189a11/)
-* [Github](https://github.com/SeaOfWolf)
-* [Twitter](twitter.com/@alexmor4n)
-
+[Email](mailto:hello@seaofwolf.com) <br>
+[Website](https://seaofwolf.com) <br>
+[LinkedIn](https://www.linkedin.com/in/carolstran/alexander-morgan15189a11/) <br>
+[Github](https://github.com/SeaOfWolf) <br>
+[Twitter](twitter.com/@alexmor4n) <br>
+ 
 
 ## A Bit About Me
 I have a passion for information security and technology, as well as a creative mindset. I am very responsive and quick to learn. I've worked within small and large teams and have often been moved to more senior roles within teams; training, supporting and developing new and existing staff members. I really enjoy people management and have experience working with direct reports to ensure that they are fulfilled and productive within their roles and help them to be as successful as possible. Diversity, equity and inclusion is something I feel is very important to the success of any organisation I work with, I do my best to ensure I not only bring this passion to the teams I work with but trying to drive this as much as I can in an organisation.
@@ -49,31 +49,18 @@ to ensure the success of team members and the EMEA business
 - Key customer management
 - 3rd party vendor relationship management
   - Managed relationship with revolving team of 5-10 agents
-
-## Projects:
-Open Source project soon to come
-      ...
       
 ## Skills &amp; Proficiency
-
-Toolset:
 - Cyber Security
 - Network Security
 - DNS
 - Windows Server
 - Active Directory
-- Azure
-  - Conditional Access
-  - Federation
-  - User Management
-  - Load Balancing
+- Azure _(Conditional Access, Federation, User Management, Load Balancing)_
 - F5
 - Citrix Netscaler 
-- Linux
-  - CentOS
-  - Ubuntu
-- AWS
-  - User Management
+- Linux _(CentOS, Ubuntu)
+- AWS _(User Management, EKS, Cloudtrail)
 - Photoshop / InDesign / Final Cut Pro
 
 ## Off Duty Skill Development
@@ -95,40 +82,36 @@ I’ve built many computers, also servers and have recently purchased a server f
 Pi Hole
 I own three websites, which I have coded and designed myself. I use these for pro- motion & to further my knowledge of SEO, HTML and CSS.
 
-Hobbies
-(From birth - Present)
+## Hobbies _(From birth - Present)_
 I enjoy gymnastics training, crossfit, playing tennis and football. Music is also some-
 thing I enjoy; I play the drums, piano and guitar.
 I’m currently studying programming using Learn Python The Hard Way.
 Information Security Podcasts that I listen to: Paul Security Weekly, Defensive Secu- rity, Risky Business & Trusted Sec, Brakeing Down Security
 
 ## Languages:
- - idiom: English
-   level: Native
+ - English
+   Level: Native
    
 ## Education:
 Certificates:
 - CompTIA A+ 
-- CompTIA N+
+- CompTIA N+ <br>
 Recent completed courses:
 - Duo Security - Intro to Application Security
 - Duo Security - Advanced Application Security
 - AWS Certfife Security - Speciality (O'Reily)
 - SRE on AWS - Kubernetes (O'Reily)
 - Microsoft Azure Security Center (O'Reily)
-- Hands-On Infrastructure Automation with Terraform on AWS
-
+- Hands-On Infrastructure Automation with Terraform on AWS <br>
 
 College
-Institution: Sussex Downs College Lewes - A Level
-Time: 2002 – 2004
+Institution: Sussex Downs College Lewes - A Level _(2002 – 2004)_
 - Art & Design: C
 - Photography: B
 - Law: C
 
 Secondary School
-Institution: Priory school Lewes - G.C.S.E.
-Time: 1997 – 2002
+Institution: Priory school Lewes - G.C.S.E. _(1997 – 2002)_
 - 9 G.C.S.E’s: A - C
 
 ## Interests:
