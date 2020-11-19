@@ -19,39 +19,37 @@ Also, my handwriting is pretty good thanks to years of calligraphy.
       
 ## Work Experience:
 **Customer Solutions Engineer, EMEA** @ [Duo Security - Cisco](https://duo.com/) _(2018 - Present)_ <br>
-I work within the Customer Success department to support customers 
-in every industry. As a trusted advisor for the technical deployment 
-of Duo within organisations, I support customers in their secure 
-access initiatives, including deployment preparation and breach 
-response. I advise customers on important security initiatives, 
-such as zero trust, secure identity and access management, as well 
-as business continuity reviews. 
-- ...
-- ...
-- ... <br>
+I work within the Customer Success department to support customers in every industry. As a trusted advisor for the technical deployment of Duo within organisations, I support customers in their secure access initiatives, including deployment preparation and breach response. I advise customers on important security initiatives, such as zero trust, secure identity and access management, as well as business continuity reviews. 
+- Solution architecture & integration best practices
+- Technical Deployment Planning
+- Incident reponse - Work with customers during break situations to get protections in place working alongside other security teams
+- Integration configuration support through screen-sharing and troubleshooting <br>
        
         
 **Sales Engineer, EMEA** @ [TalkPoint - a PGi company](https://www.pgi.com/products/globalmeet/webcast/) _(2017 - 2018)_ <br>
-Working as part of a global team, I mostly oversee EMEIA but also
-help with the global team in US and APAC. Working with new and
-existing clients, pre and post sales to build strong relationships
-and also ensure technical implementation of cloud based platform. 
-Helping with demonstrations of our products, speaking with technical
-contacts to understand the environment and ensure the correct 
-implementation is in place so that the highest level of service can 
-be experienced by the entire organisation.
+Working as part of a global team, I mostly oversee EMEIA but also help with the global team in US and APAC. Working with new and existing clients, pre and post sales to build strong relationships and also ensure technical implementation of cloud based platform. Helping with demonstrations of our products, speaking with technical contacts to understand the environment and ensure the correct implementation is in place so that the highest level of service can be experienced by the entire organisation.
 - Multicasting/ peer to peer networking implementation
 - SAML/ SSO integration
 - API integration
 - 2nd line technical support for self service clients <br>
 
 **Team Lead, Event Production** @ [TalkPoint - a PGi company](https://www.pgi.com/products/globalmeet/webcast/), London _(2015 - 2017)_ <br>
-Managed a really great team of direct reports in EMEA, helping
-to ensure the success of team members and the EMEA business
+I was the team lead for a really great team in London who worked across the EMEA region. This is a management role, providing support in terms of training on the systems but also provide direct report functions such as approving holiday, resolving any issues staff members have and working with them to ensure they are motivated and content in their roles. I was also the technical point of contact for Sales and the EMEA operations team in general, working with our EMEA engineering team to help escalate and resolve issues. Also worked very closely with our global team, main contacts in the US.
 - Direct Report Management
 - Key customer management
 - 3rd party vendor relationship management _(Managed relationship and training with revolving team of 5-10 agents)_
-- Incident response for live events
+- Incident response for live events - One of my key skills is to keep a calm demeanour whilst moving as quickly as possible to resolve and escalate issues <br>
+
+**Senior Marketing Executive** @ [TTMC](https://ttmc.co.uk/), Brighton _(2010 - 2015)_ <br>
+I was a senior member of a team specialising in IT-focused campaigns. I dealt with client liaison as well as team leading and training.
+- New and exisiting staff training
+- 1st line support for Panasonic
+- Live webcast event management/ support <br>
+
+**Parasol Group - Graphic Designer & Marketing Assistant** @ [Parasol](https://parasolgroup.co.uk/), Reading _(2006 - 2009)_ <br>
+My role as graphic designer was to produce all graphic images, flash banners and marketing material, sticking to brand guidelines and supplying artwork ready for print. Design for sales pitches and presentations. As marketing assistant I handled all email marketing, such as setting up graphics and layout within the online tools. I also managed the website content, adding blog entries, new pages and graphics
+- Marketing artwork design
+- Email campaign managment <br>
       
 ## Webinars and Webcasts
 Duo - [Zero Trust - Great Idea, But What’s Next?](https://duo.com/resources/videos/zt-key-iam-success) <br>
@@ -60,7 +58,7 @@ SC Digital Congress with Richard - The importance of the endpoint in a Zero Trus
 Cisco SecCon EMEAR - User Behaviour & Security Outreach <br>
 Frankfurt Cloud Security Conference - [Zero Trust - Great Idea, But What’s Next?] 
 (https://www.bigmarker.com/closerstill-media/Zero-Trust-Good-idea-but-what-s-next) <br>
-Popping Locks & Physical Security <br>
+Duo and Cisco Security Business Group - Popping Locks & Physical Security <br>
 
 
 ## Technical Skills
@@ -81,7 +79,7 @@ Popping Locks & Physical Security <br>
 ## Off Duty Skill Development
 **Home Lab** <br>
 _Lenovo TS140, Cisco SG300, Raspbery Pi, Raspberry Pi Zero_ <br>
-I’ve built many computers, also servers and have a server for my home network that I have set up VMware ESXI 6.0 on running a virtualised environment. I am using this server as a test lab, running multiple Windows servers, FreeB- SD, PFsense and Sophos firewalls. Some of the systems on the server: <br>
+I’ve built many computers, also servers and have a server for my home network that I have set up VMware ESXI 6.0 on running a virtualised environment. I am using this server as a test lab, running multiple Windows servers, FreeBSD, PFsense and Sophos firewalls. Some of the systems on the server: <br>
 1 Windows Server 2012 R2 domain controller with forest <br>
 1 Win Server 2012 R2 DNS <br>
 1 Win Server 2012 R2 Core <br>
@@ -115,6 +113,12 @@ I own three websites, which I have coded and designed myself. I built these for 
 - Microsoft Azure Security Center (O'Reily)
 - Hands-On Infrastructure Automation with Terraform on AWS <br>
 
+**Current study areas of focus**
+- AWS Security
+- Kubernetes / Containerisation
+- Azure Security
+- IaS (Infrastructure as code)
+
 **College**
 Institution: Sussex Downs College Lewes - A Level _(2002 – 2004)_
 - Art & Design: C
@@ -126,7 +130,7 @@ Institution: Priory school Lewes - G.C.S.E. _(1997 – 2002)_
 - 9 G.C.S.E’s: A - C
 
 ## Interests:
-- Music - Guitar, Drums, Piano and anythign I can make a bunch of noise with
+- Music - Guitar, Drums, Piano and anything I can make a bunch of noise with
 - Climbing
 - Skateboarding
 - Gymnastics
