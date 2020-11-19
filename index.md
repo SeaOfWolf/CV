@@ -47,40 +47,53 @@ Managed a really great team of direct reports in EMEA, helping
 to ensure the success of team members and the EMEA business
 - Direct Report Management
 - Key customer management
-- 3rd party vendor relationship management
-  - Managed relationship with revolving team of 5-10 agents
+- 3rd party vendor relationship management _(Managed relationship and training with revolving team of 5-10 agents)_
+- Incident response for live events
       
-## Skills &amp; Proficiency
-- Cyber Security
-- Network Security
-- DNS
-- Windows Server
+## Webinars and Webcasts
+Duo - [Zero Trust - Great Idea, But What’s Next?](https://duo.com/resources/videos/zt-key-iam-success) <br>
+Duo - [Zero Trust - Key to IAM Success](https://duo.com/resources/videos/zt-key-iam-success) <br>
+SC Digital Congress with Richard - The importance of the endpoint in a Zero Trust world <br>
+Cisco SecCon EMEAR - User Behaviour & Security Outreach <br>
+Frankfurt Cloud Security Conference - [Zero Trust - Great Idea, But What’s Next?] 
+(https://www.bigmarker.com/closerstill-media/Zero-Trust-Good-idea-but-what-s-next) <br>
+Popping Locks & Physical Security <br>
+
+
+## Technical Skills
+- Information Security
+- Windows Server 
 - Active Directory
 - Azure _(Conditional Access, Federation, User Management, Load Balancing)_
+- DNS
+- SSO - SAML
 - F5
 - Citrix Netscaler 
 - Linux _(CentOS, Ubuntu)
 - AWS _(User Management, EKS, Cloudtrail)
+- VMWare vCenter
 - Photoshop / InDesign / Final Cut Pro
+- Authethentication Proxies
 
 ## Off Duty Skill Development
-Home Lab
-Lenovo TS140, Cisco SG300, Raspbery Pi, Raspberry Pi Zero
-I’ve built many computers, also servers and have recently purchased a server for my home network that I have set up VMware ESXI 6.0 on running a virtualised environment. I am using this server as a test lab, running multiple Windows servers, FreeB- SD, PFsense and Sophos firewalls. Some of the systems on the server:
-1 Windows Server 2012 R2 domain controller with forest 
-1 Win Server 2012 R2 DNS
-1 Win Server 2012 R2 Core
-2 FreeBSD DJBDNS DNS servers
-1 Pfsense firewall
-1 centOS server
-3 Kali Linux desktop
-1 Win 7 desktop
-1 Win 10 desktop
-1 Ubuntu Desktop
-1 Metasploitable
-1 OWASP Broken Web App VM
-Pi Hole
-I own three websites, which I have coded and designed myself. I use these for pro- motion & to further my knowledge of SEO, HTML and CSS.
+**Home Lab** <br>
+_Lenovo TS140, Cisco SG300, Raspbery Pi, Raspberry Pi Zero_ <br>
+I’ve built many computers, also servers and have a server for my home network that I have set up VMware ESXI 6.0 on running a virtualised environment. I am using this server as a test lab, running multiple Windows servers, FreeB- SD, PFsense and Sophos firewalls. Some of the systems on the server: <br>
+1 Windows Server 2012 R2 domain controller with forest <br>
+1 Win Server 2012 R2 DNS <br>
+1 Win Server 2012 R2 Core <br>
+2 FreeBSD DJBDNS DNS servers <br>
+1 Pfsense firewall <br>
+1 centOS server <br>
+3 Kali Linux desktop <br>
+1 Win 7 desktop <br>
+1 Win 10 desktop <br>
+1 Ubuntu Desktop <br>
+1 Metasploitable <br>
+1 OWASP Broken Web App VM <br>
+Pi Hole <br>
+I also have an AWS account for testing <br>
+I own three websites, which I have coded and designed myself. I built these for promotion & to further my knowledge of SEO, HTML and CSS.
 
 ## Hobbies _(From birth - Present)_
 I enjoy gymnastics training, crossfit, playing tennis and football. Music is also some-
@@ -93,11 +106,11 @@ Information Security Podcasts that I listen to: Paul Security Weekly, Defensive 
    Level: Native
    
 ## Education:
-Certificates:
+**Certificates:**
 - CompTIA A+ 
 - CompTIA N+ <br>
 
-Recently completed courses:
+**Recently completed courses:**
 - Duo Security - Intro to Application Security
 - Duo Security - Advanced Application Security
 - AWS Certfife Security - Speciality (O'Reily)
@@ -105,13 +118,13 @@ Recently completed courses:
 - Microsoft Azure Security Center (O'Reily)
 - Hands-On Infrastructure Automation with Terraform on AWS <br>
 
-College
+**College**
 Institution: Sussex Downs College Lewes - A Level _(2002 – 2004)_
 - Art & Design: C
 - Photography: B
 - Law: C
 
-Secondary School
+**Secondary School**
 Institution: Priory school Lewes - G.C.S.E. _(1997 – 2002)_
 - 9 G.C.S.E’s: A - C
 
