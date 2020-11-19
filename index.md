@@ -18,16 +18,17 @@ Also, my handwriting is pretty good thanks to years of calligraphy.
 
       
 ## Work Experience:
-**Customer Solutions Engineer, EMEA** @ [Duo Security - Cisco](https://duo.com/) _(2018 - Present)_ <br>
-I work within the Customer Success department to support customers in every industry. As a trusted advisor for the technical deployment of Duo within organisations, I support customers in their secure access initiatives, including deployment preparation and breach response. I advise customers on important security initiatives, such as zero trust, secure identity and access management, as well as business continuity reviews. 
+**Customer Solutions Engineer, EMEAR** @ [Duo Security - Cisco](https://duo.com/) _(2018 - Present)_ <br>
+I work within the Customer Success department to support customers in every industry. As a trusted advisor for the technical deployment of Duo within organisations, I support customers in their secure access initiatives, including deployment preparation and breach response. I advise customers on important security initiatives, such as zero trust, secure identity and access management, as well as business continuity reviews. I've been involved in multiple projects with our internal security education team, working to increase visibility of the security team in EMEAR as well as giving talks for October Security Awareness Month, working on newsletters and will also be working on persona creation. Working with the security education team is really enjoyable and has the benefit of me being able to bring this experience and information over to our customers.
 - Solution architecture & integration best practices
 - Technical Deployment Planning
 - Incident response - Work with customers during break situations to get protections in place working alongside other security teams
-- Integration configuration support through screen-sharing and troubleshooting <br>
+- Integration configuration support through screen-sharing and troubleshooting
+- Security Eductation - Mulitple stretch projects, internal talks to Cisco SBG, newslettters, user behaviour analysis <br>
        
         
 **Sales Engineer, EMEA** @ [TalkPoint - a PGi company](https://www.pgi.com/products/globalmeet/webcast/) _(2017 - 2018)_ <br>
-Working as part of a global team, I mostly oversee EMEIA but also help with the global team in US and APAC. Working with new and existing clients, pre and post sales to build strong relationships and also ensure technical implementation of the cloud based platform. Helping with demonstrations of our products, speaking with technical contacts to understand the environment and ensure the correct implementation is in place so that the highest level of service can be experienced by the entire organisation.
+Working as part of a global team, I mostly oversee EMEA but also help with the global team in US and APAC. Working with new and existing clients, pre and post sales to build strong relationships and also ensure technical implementation of the cloud based platform. Helping with demonstrations of our products, speaking with technical contacts to understand the environment and ensure the correct implementation is in place so that the highest level of service can be experienced by the entire organisation.
 - Multicasting/ peer to peer networking implementation
 - SAML/ SSO integration
 - API integration
@@ -97,7 +98,7 @@ I’ve built many computers, also servers and have a server for my home network 
 1 Metasploitable <br>
 1 OWASP Broken Web App VM <br>
 Pi Hole <br>
-I also have an AWS account for testing <br>
+AWS account for testing <br>
 <br>
 I own three websites, which I have coded and designed myself. I built these for promotion & to further my knowledge of SEO, HTML and CSS.
 
