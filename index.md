@@ -25,7 +25,10 @@ of Duo within organisations, I support customers in their secure
 access initiatives, including deployment preparation and breach 
 response. I advise customers on important security initiatives, 
 such as zero trust, secure identity and access management, as well 
-as business continuity reviews. <br>
+as business continuity reviews. 
+- ...
+- ...
+- ... <br>
        
         
 **Sales Engineer, EMEA** @ [TalkPoint - a PGi company](https://www.pgi.com/products/globalmeet/webcast/) _(2017 - 2018)_ <br>
@@ -94,12 +97,6 @@ I’ve built many computers, also servers and have a server for my home network 
 Pi Hole <br>
 I also have an AWS account for testing <br>
 I own three websites, which I have coded and designed myself. I built these for promotion & to further my knowledge of SEO, HTML and CSS.
-
-## Hobbies _(From birth - Present)_
-I enjoy gymnastics training, crossfit, playing tennis and football. Music is also some-
-thing I enjoy; I play the drums, piano and guitar.
-I’m currently studying programming using Learn Python The Hard Way.
-Information Security Podcasts that I listen to: Paul Security Weekly, Defensive Secu- rity, Risky Business & Trusted Sec, Brakeing Down Security
 
 ## Languages:
  - English
