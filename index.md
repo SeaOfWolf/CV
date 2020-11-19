@@ -2,7 +2,7 @@
 
 _Information Security professional_
 
-[Email](mailto:hello@seaofwolf.com) / [Website](https://seaofwolf.com) / [LinkedIn](https://www.linkedin.com/in/alexander-morgan15189a11/) / [Github](https://github.com/SeaOfWolf) / [Twitter](twitter.com/@alexmor4n) <br>
+[LinkedIn](https://www.linkedin.com/in/alexander-morgan15189a11/) / [Github](https://github.com/SeaOfWolf) / [Twitter](twitter.com/@alexmor4n) <br>
  
 
 ## A Bit About Me
