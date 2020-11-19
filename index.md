@@ -2,13 +2,13 @@
 
 _Information Security professional_
 
-[Email](mailto:hello@seaofwolf.com) / [Website](https://seaofwolf.com) / [LinkedIn](https://www.linkedin.com/in/carolstran/alexander-morgan15189a11/) / [Github](https://github.com/SeaOfWolf) / [Twitter](twitter.com/@alexmor4n) <br>
+[Email](mailto:hello@seaofwolf.com) / [Website](https://seaofwolf.com) / [LinkedIn](https://www.linkedin.com/in/alexander-morgan15189a11/) / [Github](https://github.com/SeaOfWolf) / [Twitter](twitter.com/@alexmor4n) <br>
  
 
 ## A Bit About Me
 I have a passion for information security and technology, as well as a creative mindset. I am very responsive and quick to learn. I've worked within small and large teams and have often been moved to more senior roles within teams; training, supporting and developing new and existing staff members. I really enjoy people management and have experience working with direct reports to ensure that they are fulfilled and productive within their roles and help them to be as successful as possible. Diversity, equity and inclusion is something I feel is very important to the success of any organisation I work with, I do my best to ensure I not only bring this passion to the teams I work with but try to drive this as much as I can in an organisation.
 
-I spend a lot of time outside of work developing my skills and knowledge. Listening to a lot of podcasts (infosec mostly), reviewing articles and engaging with the information security community on platforms like Twitter.
+I spend a lot of time outside of work developing my skills and knowledge. Listening to a lot of podcasts (infosec mostly), reviewing articles and engaging with the information security community on platforms like Twitter. I'm currently really intersted in developing some open source projects for the security communitys.
 
 Also, my handwriting is pretty good thanks to years of calligraphy. 
 
