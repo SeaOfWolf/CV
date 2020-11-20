@@ -8,7 +8,7 @@ _Information Security professional_
 ## A Bit About Me
 I have a passion for information security and technology, as well as a creative mindset. I am very responsive and quick to learn. I've worked within small and large teams and have often been moved to more senior roles within teams; training, supporting and developing new and existing staff members. I really enjoy people management and have experience working with direct reports to ensure that they are fulfilled and productive within their roles and help them to be as successful as possible. Diversity, equity and inclusion is something I feel is very important to the success of any organisation I work with, I do my best to ensure I not only bring this passion to the teams I work with but try to drive this as much as I can in an organisation.
 
-I spend a lot of time outside of work developing my skills and knowledge. Listening to a lot of podcasts (infosec mostly), reviewing articles and engaging with the information security community on platforms like Twitter. I'm currently really interested in developing some open source projects for the security community’s
+I spend a lot of time outside of work developing my skills and knowledge. Listening to a lot of podcasts (infosec mostly), reviewing articles and engaging with the information security community on platforms like Twitter. I'm currently really interested in developing some open source projects for the security communities. I'm also very interested in user behaviour and security awareness.
 
 Also, my handwriting is pretty good thanks to years of calligraphy. 
 
@@ -63,7 +63,7 @@ My role as graphic designer was to produce all graphic images, flash banners and
 - Azure _(Conditional Access, Federation, User Management, Load Balancing, Security Center)_
 - AWS _(AIM, Cloudtrail, Cloudwatch, EKS, EC2, Route 53)_
 - DNS _(Windows, DJBDNS)_
-- SSO - SAML
+- SSO - SAML _(Duo, AD FS)_
 - DUO _(Auth Proxy, SSO, DAG, DNG, DMP Security Policy)_
 - F5 _(BIG-IP LTM & Authentication, some GSLB))_)
 - Citrix Netscaler _(Load Balancing & Authentication)_
