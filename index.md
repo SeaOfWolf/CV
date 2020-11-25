@@ -51,6 +51,7 @@ My role as graphic designer was to produce all graphic images, flash banners and
 ## Webinars and Webcasts
 - Duo - [Zero Trust - Great Idea, But What’s Next?](https://duo.com/resources/videos/zt-key-iam-success) <br>
 - Duo - [Zero Trust - Key to IAM Success](https://duo.com/resources/videos/zt-key-iam-success) <br>
+- DTX Cyber Security Mini Summit - ["Hackers don't break in anymore, they just login": Why we need to get serious about Zero Trust](https://dt-x.io/europe/en/page/dtx-cyber-security-mini-summit)
 - SC Digital Congress with Richard - The importance of the endpoint in a Zero Trust world <br>
 - Cisco SecCon EMEAR - User Behaviour & Security Outreach <br>
 - Frankfurt Cloud Security Conference - [Zero Trust - Great Idea, But What’s Next?](https://www.bigmarker.com/closerstill-media/Zero-Trust-Good-idea-but-what-s-next) <br>
