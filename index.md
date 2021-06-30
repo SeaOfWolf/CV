@@ -12,9 +12,12 @@ I spend a lot of time outside of work developing my skills and knowledge. Listen
 
 Also, my handwriting is pretty good thanks to years of calligraphy. 
 
-      
 ## Work Experience:
-**Customer Solutions Engineer, EMEAR** @ [Duo Security - Cisco](https://duo.com/) _(2018 - Present)_ <br>
+**Senior Customer Solutions Engineer, EMEAR** @ [Duo Security - Cisco](https://duo.com/) _(2021 - Present)_ <br>
+Promoted to Senior within the Customer Success department in EMEAR. Continuing to work as a trusted advisor for customers in their secure access initiatives, including deployment preparation and breach response. More content to be added...
+
+
+**Customer Solutions Engineer, EMEAR** @ [Duo Security - Cisco](https://duo.com/) _(2018 - 2021)_ <br>
 I work within the Customer Success department to support customers in every industry. As a trusted advisor for the technical deployment of Duo within organisations, I support customers in their secure access initiatives, including deployment preparation and breach response. I advise customers on important security initiatives, such as zero trust, secure identity and access management, as well as business continuity reviews. I've been involved in multiple projects with our internal security education team, working to increase visibility of the security team in EMEAR as well as giving talks for October Security Awareness Month, working on newsletters and will also be working on persona creation. Working with the security education team is really enjoyable and has the benefit of me being able to bring this experience and information over to our customers.
 - Solution architecture & integration best practices
 - Technical Deployment Planning
